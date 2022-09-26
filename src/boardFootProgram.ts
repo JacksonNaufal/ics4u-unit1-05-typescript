@@ -24,6 +24,7 @@ function boardFoot(height: number, width: number): number {
   return userLength
 }
 
+// This is the introduction to my program text.
 console.log(
   'This program figuers out the length!',
   '(1 board foot = 144 inches³ of wood)'
