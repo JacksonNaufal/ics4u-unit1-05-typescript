@@ -1,10 +1,10 @@
 /**
  * The program is the classic
- * diceroll guesser
+ * boardFoot program
  *
  * By:      Jackson Naufal
  * Version: 1.0
- * Since:   2020-09-20
+ * Since:   2020-09-26
  */
 
 import promptSync from 'prompt-sync'
