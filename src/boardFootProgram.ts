@@ -10,7 +10,6 @@
 import promptSync from 'prompt-sync'
 
 // These are my constants and variables for my program
-const board = 144
 const min = 0
 
 // These are here for the boardFoot function.
@@ -20,6 +19,8 @@ const min = 0
  * @returns {number} length of the wood.
  */
 function boardFoot(height: number, width: number): number {
+// These are my constants and variables for my program
+  const board = 144
   const userLength = Math.round(board / (width * height))
   return userLength
 }
